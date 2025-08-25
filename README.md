@@ -161,7 +161,7 @@ Me chamo Henry Fernandes Passagem, tenho 34 anos e sou natural de São Paulo. So
 <br/>
 <br/>
 
-<!--
+
 ### 📊 Estatísticas
 
 <p>
@@ -181,4 +181,4 @@ Me chamo Henry Fernandes Passagem, tenho 34 anos e sou natural de São Paulo. So
   />
 
 </p>
--->
+
