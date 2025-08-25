@@ -1,6 +1,6 @@
 # Henry Fernandes Passagem
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Henry Fernandes Passagem, tenho 34 anos e sou natural de São Paulo. Sou Ph.D. em Física de formação e concluí o bootcamp de Full Stack da Trybe. Atualmente, trabalho como cientista e desenvolvedor na Suíça. Sou fascinado por tecnologia e ciências e compartilho meu conhecimento através do meu canal no YouTube "[Henry Passagem]()", onde ensino a criar projetos web.
 
