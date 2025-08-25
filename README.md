@@ -165,7 +165,7 @@ Me chamo Henry Fernandes Passagem, sou Ph.D. em Física de formação e concluí
 
 
 ### 📊 Estatísticas
-
+<!--
 <p>
   <img 
     align="left" 
@@ -174,6 +174,7 @@ Me chamo Henry Fernandes Passagem, sou Ph.D. em Física de formação e concluí
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=henryfpassagem&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+  -->
 
 <img 
       align="left" 
