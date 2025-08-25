@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Henry Fernandes Passagem, tenho 34 anos e sou natural de São Paulo. Sou Ph.D. em Física de formação e concluí o bootcamp de Full Stack da Trybe. Atualmente, trabalho como cientista e desenvolvedor na Suíça. Sou apaixonado por tecnologia e ciências e compartilho meu conhecimento através do meu canal no YouTube "[Henry Passagem]()", onde ensino a criar projetos web.
+Me chamo Henry Fernandes Passagem, tenho 34 anos e sou natural de São Paulo. Sou Ph.D. em Física de formação e concluí o bootcamp de Full Stack da Trybe. Atualmente, trabalho como cientista e desenvolvedor na Suíça. Sou fascinado por tecnologia e ciências e compartilho meu conhecimento através do meu canal no YouTube "[Henry Passagem]()", onde ensino a criar projetos web.
 
 <!--
 <p align="left">
@@ -96,6 +96,7 @@ Me chamo Henry Fernandes Passagem, tenho 34 anos e sou natural de São Paulo. So
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="Tailwind" 
@@ -104,6 +105,7 @@ Me chamo Henry Fernandes Passagem, tenho 34 anos e sou natural de São Paulo. So
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+-->
 <img 
     align="left" 
     alt="SASS" 
@@ -120,6 +122,7 @@ Me chamo Henry Fernandes Passagem, tenho 34 anos e sou natural de São Paulo. So
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="Laravel" 
@@ -128,6 +131,7 @@ Me chamo Henry Fernandes Passagem, tenho 34 anos e sou natural de São Paulo. So
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JQuery" 
@@ -136,6 +140,7 @@ Me chamo Henry Fernandes Passagem, tenho 34 anos e sou natural de São Paulo. So
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
+-->
 <img 
     align="left" 
     alt="Git" 
