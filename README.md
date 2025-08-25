@@ -4,9 +4,9 @@
 
 Me chamo Henry Fernandes Passagem, sou Ph.D. em Física de formação e concluí o bootcamp de Full Stack da Trybe. Atualmente, trabalho como cientista e desenvolvedor na Suíça. Sou fascinado por tecnologia e ciências e compartilho meu conhecimento através do meu canal no YouTube "[Henry Passagem]()", onde ensino a criar projetos web.
 
-
-<p align="left">
 <!--
+<p align="left">
+
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
@@ -20,7 +20,7 @@ Me chamo Henry Fernandes Passagem, sou Ph.D. em Física de formação e concluí
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
-    -->
+    
     </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
@@ -37,7 +37,7 @@ Me chamo Henry Fernandes Passagem, sou Ph.D. em Física de formação e concluí
         />
     </a>
 </p>
-
+-->
 ---
 
 ### 🤖 Linguagens e Tecnologias
