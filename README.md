@@ -15,7 +15,7 @@ Olá, me chamo **Henry Fernandes Passagem**, sou de Ribeirão Preto, SP, Brasil 
   progredir nas boas práticas de programação;
 - ⚛️ Minha primeira formação é em Física, onde desenvolvi visão analítica, estatística, linguagem R e Python;
 - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro compartilhar saberes!
-- 📫 Caso queira entrar em contato, meu email é **henry.passage@gmail.com**.
+- 📫 Caso queira entrar em contato, meu email é **henry.passagem@gmail.com**.
 - Conecte-se comigo no <a href="https://www.linkedin.com/in/henry-fernandes-passagem-0b465a82/" target="_blank">LinkedIn</a>.
  <!-- - 📝 Veja meu currículo <a href="https://gitconnected.com/ligiabicalho/resume" target="_blank">clicando aqui</a> -->
 <br />
