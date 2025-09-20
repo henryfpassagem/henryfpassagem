@@ -11,7 +11,7 @@ Olá, me chamo **Henry Fernandes Passagem**, sou de Ribeirão Preto, SP, Brasil 
 
 - 👨🏽‍💻 No desenvolvimento **back-end** utlizo node.js com express na criação de API REST, como também Python, integrando com banco de dados SQL e NoSQL.
 - :high_brightness: Em **front-end** desenvolvo interfaces _Single Page Applications_, utilizando Next.js (React js) ou Angular 2+; 
-- :brain: Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedora e 
+- :brain: Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedor e 
   progredir nas boas práticas de programação;
 - ⚛️ Minha primeira formação é em Física, onde desenvolvi visão analítica, estatística, linguagem R e Python;
 - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro compartilhar saberes!
