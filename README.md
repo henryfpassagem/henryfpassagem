@@ -1,8 +1,25 @@
-# Henry Fernandes Passagem
+<a href="https://github.com/ligiabicalho" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+<a href="https://www.linkedin.com/in/ligiabicalho/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+<br />
+<br />
 
-**`FullStack Developer`**
+Olá, me chamo **Henry Fernandes Passagem**, sou de Ribeirão Preto, SP, Brasil e sou **Desenvolvedora Web Full Stack** 🚀. 
 
-Me chamo Henry Fernandes Passagem, sou Ph.D. em Física de formação e concluí o bootcamp de Full Stack da Trybe. Atualmente, trabalho como cientista e desenvolvedor na Suíça. Sou fascinado por tecnologia e ciências e compartilho meu conhecimento através do meu canal no YouTube "[Henry Passagem]()", onde ensino a criar projetos web.
+- 👨🏽‍💻 No desenvolvimento **back-end** utlizo node.js com express na criação de API REST, como também Python, integrando com banco de dados SQL e NoSQL.
+- :high_brightness: Em **front-end** desenvolvo interfaces _Single Page Applications_, utilizando Next.js (React js) ou Angular 2+; 
+- :brain: Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedora e 
+  progredir nas boas práticas de programação;
+- ⚛️ Minha primeira formação é em Física, onde desenvolvi visão analítica, estatística, linguagem R e Python;
+- :speech_balloon: Pergunte-me sobre qualquer coisa, adoro compartilhar saberes!
+- 📫 Caso queira entrar em contato, meu email é **henry.passage@gmail.com**.
+- Conecte-se comigo no <a href="https://www.linkedin.com/in/henry-fernandes-passagem-0b465a82/" target="_blank">LinkedIn</a>.
+ <!-- - 📝 Veja meu currículo <a href="https://gitconnected.com/ligiabicalho/resume" target="_blank">clicando aqui</a> -->
+<br />
+<br />
 
 <!--
 <p align="left">
