@@ -14,7 +14,7 @@ Hi, I'm **Henry Fernandes Passagem**, a **Full-Stack Web Developer** with a back
 - :brain: I'm always learning and improving my skills, with a strong focus on writing clean, maintainable, and scalable code.
 - ⚛️ I earned a degree in Physics, where I developed strong analytical and problem-solving skills, along with experience in Python, R, statistics, and data analysis.
 - :speech_balloon: Feel free to ask me anything—I'm always happy to share knowledge and learn from others!
-- 📫 You can reach me at **henry.passagem@gmail.com** or **hfpassagem@gmail.com**.
+- 📫 You can reach me at henry.passagem@gmail.com or hfpassagem@gmail.com.
 - 🤝 Let's connect on <a href="https://www.linkedin.com/in/hfpassagem/" target="_blank">LinkedIn</a>.
  <!-- - 📝 Veja meu currículo <a href="https://gitconnected.com/ligiabicalho/resume" target="_blank">clicando aqui</a> -->
 <br />
