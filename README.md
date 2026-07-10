@@ -117,7 +117,7 @@ Hi, I'm **Henry Fernandes Passagem**, a **Full-Stack Web Developer** with a back
 <br/>
 
 
-### 📊 Estatísticas
+### 📊 Statistics
 <!--
 <p>
   <img 
