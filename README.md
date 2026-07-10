@@ -9,8 +9,8 @@
 
 Hi, I'm **Henry Fernandes Passagem**, a **Full-Stack Web Developer** with a background in Physics 🚀.
 
-- 👨🏽‍💻 No desenvolvimento **back-end** utlizo node.js com express na criação de API REST, como também Python, integrando com banco de dados SQL e NoSQL.
-- :high_brightness: Em **front-end** desenvolvo interfaces _Single Page Applications_, utilizando Next.js (React js) ou <!--Angular 2+-->; 
+- 👨🏽‍💻**Back-end**: I develop REST APIs using Node.js and Express, as well as Python, working with both SQL and NoSQL databases.
+- :high_brightness: Front-end: I build responsive Single-Page Applications (SPAs) using Next.js (React) and modern web technologies. Em **front-end** desenvolvo interfaces _Single Page Applications_, utilizando Next.js (React js) ou <!--Angular 2+-->; 
 - :brain: Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedor e 
   progredir nas boas práticas de programação;
 - ⚛️ Minha primeira formação é em Física, onde desenvolvi visão analítica, estatística, linguagem R e Python;
