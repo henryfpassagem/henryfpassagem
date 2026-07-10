@@ -56,7 +56,7 @@ Hi, I'm **Henry Fernandes Passagem**, a **Full-Stack Web Developer** with a back
 -->
 ---
 
-### 🤖 Tech Stack
+### 🤖 Languages & Technologies
 
 <br> 
 <div id="tools"> 
@@ -96,7 +96,7 @@ Hi, I'm **Henry Fernandes Passagem**, a **Full-Stack Web Developer** with a back
 </div>
 
 <div id="data-base">
-  <span>Banco de dados</span><br>
+  <span>Database</span><br>
   <img src="https://img.shields.io/badge/-MySQL-1C1C1C?logo=mysql&logoColor=4479A1" alt="mysql" height="25px">
   <img src="https://img.shields.io/badge/-PostgreSQL-1C1C1C?logo=postgresql&logoColor=4169E1" alt="postgresql" height="25px">
   <img src="https://img.shields.io/badge/-Prisma_ORM-1C1C1C?logo=prisma&logoColor=2D3748" alt="prisma" height="25px">
@@ -105,7 +105,7 @@ Hi, I'm **Henry Fernandes Passagem**, a **Full-Stack Web Developer** with a back
 </div>
 
 <div id="testes">
-  <span>Testes</span><br>
+  <span>Testing</span><br>
   <img src="https://img.shields.io/badge/-Jest-1C1C1C?logo=jest&logoColor=C21325" alt="jest" height="25px"> 
   <img src="https://img.shields.io/badge/-Testing%20Library-1C1C1C?logo=testing-library&logoColor=E33332" alt="RTL" height="25px">
   <img src="https://img.shields.io/badge/-Mocha-1C1C1C?logo=Mocha&logoColor=8D6748" alt="Mocha" height="25px">
