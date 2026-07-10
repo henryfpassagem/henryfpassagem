@@ -56,7 +56,7 @@ Hi, I'm **Henry Fernandes Passagem**, a **Full-Stack Web Developer** with a back
 -->
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tech Stack
 
 <br> 
 <div id="tools"> 
