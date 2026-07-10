@@ -13,10 +13,10 @@ Hi, I'm **Henry Fernandes Passagem**, a **Full-Stack Web Developer** with a back
 - :high_brightness: Front-end: I build responsive Single-Page Applications (SPAs) using Next.js (React) and modern web technologies. Em **front-end** desenvolvo interfaces _Single Page Applications_, utilizando Next.js (React js) ou <!--Angular 2+-->; 
 - :brain: Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedor e 
   progredir nas boas práticas de programação;
-- ⚛️ Minha primeira formação é em Física, onde desenvolvi visão analítica, estatística, linguagem R e Python;
-- :speech_balloon: Pergunte-me sobre qualquer coisa, adoro compartilhar saberes!
-- 📫 Caso queira entrar em contato, meu email é **henry.passagem@gmail.com**.
-- 🤝 Let's connect on <a href="https://www.linkedin.com/in/henry-fernandes-passagem-0b465a82/" target="_blank">LinkedIn</a>.
+- ⚛️ I earned a degree in Physics, where I developed strong analytical and problem-solving skills, along with experience in Python, R, statistics, and data analysis.
+- :speech_balloon: Feel free to ask me anything—I'm always happy to share knowledge and learn from others!
+- 📫 You can reach me at **henry.passagem@gmail.com** or **hfpassagem@gmail.com**.
+- 🤝 Let's connect on <a href="https://www.linkedin.com/in/hfpassagem/" target="_blank">LinkedIn</a>.
  <!-- - 📝 Veja meu currículo <a href="https://gitconnected.com/ligiabicalho/resume" target="_blank">clicando aqui</a> -->
 <br />
 <br />
