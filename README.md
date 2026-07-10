@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Olá, me chamo **Henry Fernandes Passagem**, sou de Ribeirão Preto, SP, Brasil e sou **Desenvolvedor Web Full Stack** 🚀. 
+Hi, I'm **Henry Fernandes Passagem**, a **Full-Stack Web Developer** with a background in Physics 🚀.
 
 - 👨🏽‍💻 No desenvolvimento **back-end** utlizo node.js com express na criação de API REST, como também Python, integrando com banco de dados SQL e NoSQL.
 - :high_brightness: Em **front-end** desenvolvo interfaces _Single Page Applications_, utilizando Next.js (React js) ou <!--Angular 2+-->; 
